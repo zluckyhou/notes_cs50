@@ -4,12 +4,16 @@ Today is 2017/5/26. It is 0:04 now. I am begining to learn cs50 from the start. 
 
 ----
 
-Week0 wed,12'56s
+`Week0 wed,12'56s`
 
 Think about your purpose is not to be a programmer, which is how to solve problem much more effectivily.
 
 Computer can not understand things like people. It can only deal with 0/1, which is called binary.Bits, which comes from binary digits, is the smallest unit for describing data.
 
-week0 wed, end
+-----
+
+`week0 wed, end`
 
 This is cs50. There must be lot of fun. Just make it.
+
+----
