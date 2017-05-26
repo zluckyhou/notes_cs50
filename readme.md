@@ -4,7 +4,7 @@ Today is 2017/5/26. It is 0:04 now. I am begining to learn cs50 from the start. 
 
 ----
 
-Week0 wed,12:56
+Week0 wed,12'56s
 
 Think about your purpose is not to be a programmer, which is how to solve problem much more effectivily.
 
