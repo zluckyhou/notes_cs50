@@ -17,3 +17,12 @@ Computer can not understand things like people. It can only deal with 0/1, which
 This is cs50. There must be lot of fun. Just make it.
 
 ----
+
+`week0 Fri, end`
+
+boolean,variable,array,function,condition,loop,threads,events, all of these in progrmming is to make things get easier.
+
+This is the end of week0. For lecture notes,see[notes for week0](http://docs.cs50.net/2016/fall/notes/0/week0.html#problem-set-0).
+
+-----
+
