@@ -26,3 +26,7 @@ This is the end of week0. For lecture notes,see[notes for week0](http://docs.cs5
 
 -----
 
+`title: week1 Mon, 93'32`
+
+overflow, precision
+
